@@ -1,0 +1,25 @@
+.flex {
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block; /* Display items inline */
+    margin: 10px;
+    text-align: center;
+  }
+  
+  img {
+    width: 200px; /* Adjust the width as needed */
+    height: auto;
+  }
+  
+  p {
+    margin-top: 5px; /* Adjust the spacing between image and text */
+  }
+  
